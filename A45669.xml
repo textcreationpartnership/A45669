@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods revenge against murther containing the confessions, prayers, discourses, and last dying sayings of Mr. Edward Harrison, who was try'd, convicted, and deservedly sentenced the sixth and ninth of this instant April, 1692. for the late unheard of murther of Dr. Clench; and accordingly executed in Holborn, on Friday the fifteenth following. Licensed according to order.</title>
+            <author>Harrison, Henry, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45669</idno>
+            <idno type="STC">Wing H890A</idno>
+            <idno type="STC">ESTC R216533</idno>
+            <idno type="EEBO-CITATION">99828260</idno>
+            <idno type="PROQUEST">99828260</idno>
+            <idno type="VID">32687</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45669)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32687)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods revenge against murther containing the confessions, prayers, discourses, and last dying sayings of Mr. Edward Harrison, who was try'd, convicted, and deservedly sentenced the sixth and ninth of this instant April, 1692. for the late unheard of murther of Dr. Clench; and accordingly executed in Holborn, on Friday the fifteenth following. Licensed according to order.</title>
+                  <author>Harrison, Henry, d. 1692.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Wing H892 and others give name of the accused as Henry Harrison.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Murder) --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32687:1"/>
+            <head>
+               <hi>God's Revenge againſt Murther:</hi> Containing the Confeſſions, Prayers, Diſcourſes, AND <hi>Laſt Dying Sayings,</hi> OF Mr. Edward Harriſon, WHO WAS Try'd, Convicted, and deſervedly Sentenced the Sixth and Ninth of this Inſtant <hi>April,</hi> 1692. for the late unheard of Murther of Dr. <hi>Clench;</hi> and accordingly Execu<g ref="char:EOLhyphen"/>ted in <hi>Holbourn,</hi> on <hi>Friday</hi> the Fifteenth following.</head>
+            <epigraph>
+               <q>
+                  <p>Let him that thinketh he ſtandeth, take heed leſt he fall,</p>
+                  <bibl>1 Cor. 10.12.</bibl>
+               </q>
+            </epigraph>
+            <argument>
+               <p>Licenſed according to Order.</p>
+            </argument>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <argument>
+                  <p>Containing ſerious Advice to all thoſe Young Gentlemen and others, whoſe Vitious Extra<g ref="char:EOLhyphen"/>vagancy and Debauchery, make them the Prodigy of the Age; eſpecially ſuch as were Mr. <hi>Harriſon</hi>'s Acquaintance, and were Spectators of his Execution.</p>
+               </argument>
+               <opener>
+                  <salute>SIRS,</salute>
+               </opener>
+               <p>YOU that were Mr. <hi>Harriſon</hi>'s Friends and Acquaintance, (and without Reflection, let me add, ſometimes perhaps <hi>Companions</hi> in Riot and Extravagancy;) you, whoſe Vitious Pra<g ref="char:EOLhyphen"/>ctices have firſt prevail'd to make you wiſh there were no future State of Re<g ref="char:EOLhyphen"/>ward or Puniſhment, and farther Conti<g ref="char:EOLhyphen"/>nuance in Sin, ſo ſcar'd your Conſcien<g ref="char:EOLhyphen"/>ces, ſtupified your Underſtandings, and degraded your Reaſons: As with the Food in the Pſalmiſt, <hi>To ſay in your Hearts there is no God:</hi> Here, by this late Sad Exam<g ref="char:EOLhyphen"/>ple, you may behold how <hi>Empty</hi> and <hi>Idle,</hi> how <hi>Pernicious</hi> and <hi>Frightful,</hi> how <hi>Loath<g ref="char:EOLhyphen"/>ſome</hi> and <hi>Deteſtable</hi> ſuch Conceits appear;
+<pb n="2" facs="tcp:32687:2"/>
+when once <hi>Serious Apprehenſions</hi> of Death approach, opening the Self Blinded Eyes of the Soul, and taking off thoſe <hi>Vain I<g ref="char:EOLhyphen"/>maginations,</hi> which the Depravity of Na<g ref="char:EOLhyphen"/>ture, the inconſiderateneſs of Youth<g ref="char:punc">▪</g> the madneſs of Wine, or a Proud Fantaſtick Humour of Singularity have raiſed, and which tend no leſs to the Diſturbance and Diſtraction of Humane <hi>Society</hi> in ge<g ref="char:EOLhyphen"/>neral; than in the particular Ruin and Deſtraction, (as well Temporal as Eter<g ref="char:EOLhyphen"/>nal,) of all theſe that ſuffer themſelves to be infatuated by them.</p>
+               <p>There is not certainly a more effectual Way to revive the <hi>Drooping Spirit</hi> of Chriſtian Religion in the World, than ſe<g ref="char:EOLhyphen"/>riouſly to contemplate upon, and conſi<g ref="char:EOLhyphen"/>der our Latter End, that we muſt ſhortly dye, and come to Judgment, and then receive a Reward according to our Deeds. If we were poſſeſs'd with a warm and conſtant Senſe of theſe things, we ſhould in all probability, endeavour <hi>to walk cir<g ref="char:EOLhyphen"/>cumſpectly, not as Fools, but as Wiſe,</hi> to be Holy in all manner of Converſation. Such is the Advantage of a Religious Conſide<g ref="char:EOLhyphen"/>ration. Alaſs! were there but mature Thoughts, would but Men be wrought upon to act as reaſonable Creatures; would they but juniciouſly and ſoberly weigh things in the Balance of their Underſtand<g ref="char:EOLhyphen"/>ings, they would ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldom or never be found wanting in their Duty and Obligation: If Men would once entertain ſerious Thoughts of Religion, they would ſoon ſet open their Ears to its ſweet and charm<g ref="char:EOLhyphen"/>ing Language; if they would but fix their Eyes upon it, they would ſoon be capti<g ref="char:EOLhyphen"/>vated with its incomparable Beauty, it would preſently attract their Love and Admiration, and enforce them to imbrace it with all profound Reſpect and Affecti<g ref="char:EOLhyphen"/>on: A Conſideration of our Latter End, a Serious Reflection upon Eternity, this would put the Soul in ſuch a Frame and Poſture, as would make it wreſtleſs and uneaſy, wrack'd and impatient, till it had made his Peace with an incenſed Judge, by Repentance not to be repented of; <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> prepar'd it ſelf for a comforta<g ref="char:EOLhyphen"/>ble Appearance at his Bar, for a glorious Advancement into an endleſs State of Bliſs and Immortality: Such is the great Ad<g ref="char:EOLhyphen"/>vantage of Conſidering our Latter End. <hi>Oh that they were wiſe, that they underſtood this, that they would conſide<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their Latter End.</hi> Now the <hi>Four last things</hi> to be continually remembred, are <hi>Death, a Judgment to come, Hell, and Caeleſtial Glory.</hi> And what more horribly than <hi>Death;</hi> What more torrible than ſuch a <hi>Judgment?</hi> What more intollerable than <hi>Eterna<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Fire?</hi> And what worthier Object can there be for us to exert our Faculties upon, than <hi>God, and the Manſions of Everlaſting Feli<g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty?</hi> How many Sins might we haVe a<g ref="char:EOLhyphen"/>voided in the courſe of our Lives, if we had the ſerious Remembrance and Ap<g ref="char:EOLhyphen"/>prehenſion of theſe things? And how ma<g ref="char:EOLhyphen"/>ny Sins might we yet avoid if we would but endeavour to have theſe things, as <hi>Belſhazard's Hand Writing againſt the Wall</hi> conſtantly in our Eye? Theſe things, as the <hi>Pilat the Ship,</hi> would direct and influence our whole Life and Converſa<g ref="char:EOLhyphen"/>tion, would help us to ſteer our Courſe, and ſafely bring us to the Haven of Bliſs and Happineſs, ſuch would be the great Advantage of conſidering our Latter End: If Men would but thus conſider, no temp<g ref="char:EOLhyphen"/>tation would then take hold of them, no<g ref="char:EOLhyphen"/>thing would ruffle and diſcompoſe their
+<pb n="3" facs="tcp:32687:3" rendition="simple:additions"/>
+Conſcience, it would be <hi>void of Offence both towards God, and towards Men.</hi> But alaſs! In this lapſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and degenerate Age, in this miſerable and naughty World, how many are there that have languiſh'd luke-warm and Feeble Opinions of Religion? If Judgment may be formed according to their Vicious and Immortal Conver<g ref="char:EOLhyphen"/>ſation, what a Deluge of Prophaneſs and Impiety, Ath<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſm and Infedelity over<g ref="char:EOLhyphen"/>flows this <hi>Sinful Land,</hi> this poor Nation? How many live, as tho' they believed that Vertue and Vice, that God and the Devil were Words ſignifying nothing, as if they were the extract of ſome Melan<g ref="char:EOLhyphen"/>cholly and Pregnant Brain, as if they were invented mearly for Mens Terror and Af<g ref="char:EOLhyphen"/>frightment? The <hi>Halter,</hi> the <hi>Gibbet,</hi> and the moſt terrible of Temporal Puniſh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s, to have as little Influence upon Mens Lives, makes as ſmall an Impreſſion upon the Minds of Men, as thoſe which which are Eternal: How many have ſuf<g ref="char:EOLhyphen"/>fered as <hi>Murtherers,</hi> as <hi>Thieves,</hi> as <hi>Evil<g ref="char:EOLhyphen"/>doers?</hi> And yet Men will not take Warn<g ref="char:EOLhyphen"/>ing and Example; Men will not be de<g ref="char:EOLhyphen"/>terred from Committing the like abomi<g ref="char:EOLhyphen"/>nable, vile and enormous Offences. Eve<g ref="char:EOLhyphen"/>ry Seſſions gives us too many freſh and ſad Inſtances of this Truth. O that Men would become Wife, and conſider not on<g ref="char:EOLhyphen"/>ly Temporal but Eternal Puniſhments! Such a Conſideration would, if any thing, oblige them to follow the important Bu<g ref="char:EOLhyphen"/>ſineſs of Religion, <hi>To hu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t no Body by Word or Deed, to keep their Hands from ſhedding Innocent Blood, and from Picking and Steal<g ref="char:EOLhyphen"/>ing:</hi> Such a Conſideration would enforce them <hi>to labour truly to get their own Living.</hi> an to do their duty in that Station which Divine Providence hath allotted to them.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <argument>
+                  <p>Containing his Behaviour in Priſon, and a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Place of Execution; with his Confe<g ref="char:EOLhyphen"/>rence with Dr. <hi>H</hi> —, and ſeveral o<g ref="char:EOLhyphen"/>ther Divines.</p>
+               </argument>
+               <p>ON <hi>Wedneſday January the 6th.</hi> Mr. <hi>Harriſon</hi> was ſeized in <hi>White Fryers,</hi> by a Warrent from the L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd Chief Juſtice <hi>Holt;</hi> and committed to <hi>Newgate</hi> for the <hi>Murther</hi> of Dr. <hi>Clench,</hi> where he conti<g ref="char:EOLhyphen"/>nued till the <hi>6th</hi> Inſtant; on which ſaid Day, being brought to the <hi>Old Baily,</hi> he was there arraigned and tryed for the wil<g ref="char:EOLhyphen"/>ful <hi>Murther</hi> of the ſaid Doctor; where, upon hearing the full Evidence, he was found Guilty.</p>
+               <p>Before his Tryal and Conviction he was not ſo much affected with the Thoughts of another World, but being now under a Sentence of Death, he began to conſider of his Latter End; and by the Chriſtian Charity of many Divines, particularly the the Reverend Dr.
+<hi>H</hi>—; He was much aſſiſted by their Spiritual Comfort and Advice. Yet all they could do, while in <hi>Newgate,</hi> could not perſwade him to a Confeſſion of the <hi>Murther,</hi> ſaying that no Perſon could poſſibly prove it upon him. He was told that his Conſcience was Ten Thouſand Witneſſes, and that if he did not confeſs it before he Dyed, (being concious of it) there could not be any Hopes of his Salvation, he was told, that he ſhould take heed how he falſly appealed to the Heart ſearching God, for this would aggravate his Guilt. He often declar'd, that he had been a very great Sinner, and deſerved this, and Ten times worſe Puniſhment from God, and did ex<g ref="char:EOLhyphen"/>pect no leſs than Death, and therefore
+<pb n="4" facs="tcp:32687:4"/>
+was willing to prepare for it. On <hi>Sunday</hi> the <hi>10th</hi> Inſtant, the Ordinary read Pray<g ref="char:EOLhyphen"/>ers, and Preached a Sermon to the Con<g ref="char:EOLhyphen"/>demned Malefactors in the Chapple, where Mr. <hi>Harriſon</hi> attended and was ve<g ref="char:EOLhyphen"/>ry attentive, ſeeming very much affected with th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe Preparity Exerciſes for his Death, but after the Sermon was ended and before Mr. <hi>Ordinary</hi> began his laſt Prayer, Mr. <hi>Harriſon</hi> ſpoke to him and ſaid he had made a good Diſcourſe, and that as to what related to Blood guiltineſs if any one of Dr. <hi>Clench</hi>'s Murtherers were there, they could not but be tauched the Heart, and be forced to a genuine Confeſſion. (or Words to that Effect) And now good Reader, we come to the laſt Acts of Moments of unhappy Mr. <hi>Edward Harriſon;</hi> who purſuant to the Sentence he received in the <hi>Old Baily</hi> was this Day about the Hour of Eleven, carried from <hi>Newgate</hi> to <hi>Holbourn,</hi> againſt <hi>Furnivals-Inn,</hi> where a Gibbet was Erected, for his Execution, before he was turned off he Prayed a conſiderable Time by him<g ref="char:EOLhyphen"/>ſelf.</p>
+            </div>
+            <div type="prayer">
+               <head>The PRAYER during the Time of his Impriſonment, before his Execution.</head>
+               <p>OH! moſt dreadful God, for the Paſſion of thy Son, I beſeech Thee to give a ſinful and miſerable Wretch leave to proſtrate himſelf before the Throne of thy Crace, and implore that Mercy which I have formerly de<g ref="char:EOLhyphen"/>ſpiſed and abuſed: I am not Worthy, I confeſs, to lift up my Eyes towards Hea<g ref="char:EOLhyphen"/>ven, for I have fallen from Thee by mine Iniquities, and am by Nature the Son of Death, and a Thouſand fold more the Child of Hell by my Wicked Practiſes, and it becomes me in the greateſt dejection of Spirit, to Sigh and Groan under the load of my Sins, which have been ſo great and many, ſo bold, ſo preſumptuous and ſhameleſs, that when with an awakened Mind I reflect upon them, I am ready to ſink into Hell, and deſpair of any Mercy; but of thy infinite Grace, thou haſt promiſed Mercy to me in Chriſt, if I will turn to Thee with all my heart; There<g ref="char:EOLhyphen"/>fore, upon the Call of the Goſpel I am now come in, and throwing down my Weapons, ſubmit my ſelf to thy Mercy: And becauſe Thou requireſt, as the condition of my Peace with Thee, that I ſhould put away my Idols, and be at defiance with all Thine Enemies, whom I acknowled I have wickedly ſided with againſt Thee: I do here, from the bottom of my heart, renounce them all; O that I could hate and abhor them more than that Death which I expect very ſhortly to Suffer for them. Beſtow on me, O Lord, that ingenuous and godly Sorrow, which worketh Repentance, and unfeigned purpoſes of amendment of life. They come too late indeed, I may juſtly think, to find acceptance with Thee, and therefore, not without fear and trembling, and a great ſenſe of my undeſervings, I look up unto Thee, acknowledging Thy infinite Goodneſs, if thou wilt vouchſafe me but the ſmalleſt hope of Mercy: Strengthen me, good Lord, in the hour of Death, that I may not fall through the Temptations of Satan, but receive me through the Merits of thy only Son, and my alone Saviour, Jeſus Chriſt our Lord, <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
